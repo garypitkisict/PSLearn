@@ -28,5 +28,4 @@ $params = @{
 }
 Invoke-Sqlcmd @params
 
-$ git config --global user.name "garypitkisict"
-$ git config --global user.email gary.pitkis@integralcapital.ca
+ stancesta
